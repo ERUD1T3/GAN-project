@@ -130,4 +130,4 @@ dmypy.json
 
 
 #data file to be ignored
-data/
+DCGAN/data/
